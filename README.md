@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/gulshanjangid/SQL/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/gulshanjangid/SQL/tree/master/0011-container-with-most-water) |
+| [0046-permutations](https://github.com/gulshanjangid/SQL/tree/master/0046-permutations) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/gulshanjangid/SQL/tree/master/0011-container-with-most-water) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/gulshanjangid/SQL/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
