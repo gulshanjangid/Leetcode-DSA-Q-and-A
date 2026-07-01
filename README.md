@@ -12,12 +12,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gulshanjangid/SQL/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/gulshanjangid/SQL/tree/master/0046-permutations) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/gulshanjangid/SQL/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/gulshanjangid/SQL/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gulshanjangid/SQL/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gulshanjangid/SQL/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/gulshanjangid/SQL/tree/master/0012-integer-to-roman) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/gulshanjangid/SQL/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## String
 |  |
 | ------- |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gulshanjangid/SQL/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/gulshanjangid/SQL/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Math
 |  |
 | ------- |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/gulshanjangid/SQL/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/gulshanjangid/SQL/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Matrix
 |  |
 | ------- |
