@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/gulshanjangid/SQL/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gulshanjangid/SQL/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/gulshanjangid/SQL/tree/master/0046-permutations) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/gulshanjangid/SQL/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/gulshanjangid/SQL/tree/master/0004-median-of-two-sorted-arrays) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/gulshanjangid/SQL/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -71,4 +73,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/gulshanjangid/SQL/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/gulshanjangid/SQL/tree/master/0010-regular-expression-matching) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/gulshanjangid/SQL/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/gulshanjangid/SQL/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/gulshanjangid/SQL/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/gulshanjangid/SQL/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
