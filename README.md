@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/gulshanjangid/SQL/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/gulshanjangid/SQL/tree/master/0012-integer-to-roman) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/gulshanjangid/SQL/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gulshanjangid/SQL/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## String
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/gulshanjangid/SQL/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/gulshanjangid/SQL/tree/master/0012-integer-to-roman) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gulshanjangid/SQL/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gulshanjangid/SQL/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/gulshanjangid/SQL/tree/master/0011-container-with-most-water) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gulshanjangid/SQL/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gulshanjangid/SQL/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -105,4 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/gulshanjangid/SQL/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
+## Sorting
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gulshanjangid/SQL/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Counting
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gulshanjangid/SQL/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
