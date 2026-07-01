@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/gulshanjangid/SQL/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/gulshanjangid/SQL/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/gulshanjangid/SQL/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/gulshanjangid/SQL/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gulshanjangid/SQL/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/gulshanjangid/SQL/tree/master/0046-permutations) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/gulshanjangid/SQL/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/gulshanjangid/SQL/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/gulshanjangid/SQL/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/gulshanjangid/SQL/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/gulshanjangid/SQL/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gulshanjangid/SQL/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Greedy
 |  |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/gulshanjangid/SQL/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/gulshanjangid/SQL/tree/master/0016-3sum-closest) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gulshanjangid/SQL/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
 |  |
