@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/gulshanjangid/SQL/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/gulshanjangid/SQL/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/gulshanjangid/SQL/tree/master/0012-integer-to-roman) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gulshanjangid/SQL/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/gulshanjangid/SQL/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/gulshanjangid/SQL/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/gulshanjangid/SQL/tree/master/0012-integer-to-roman) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gulshanjangid/SQL/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/gulshanjangid/SQL/tree/master/0011-container-with-most-water) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gulshanjangid/SQL/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Backtracking
 |  |
 | ------- |
