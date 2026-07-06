@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/gulshanjangid/SQL/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gulshanjangid/SQL/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/gulshanjangid/SQL/tree/master/0046-permutations) |
+| [1288-remove-covered-intervals](https://github.com/gulshanjangid/SQL/tree/master/1288-remove-covered-intervals) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/gulshanjangid/SQL/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/gulshanjangid/SQL/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Hash Table
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/gulshanjangid/SQL/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/gulshanjangid/SQL/tree/master/0016-3sum-closest) |
+| [1288-remove-covered-intervals](https://github.com/gulshanjangid/SQL/tree/master/1288-remove-covered-intervals) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gulshanjangid/SQL/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
 |  |
