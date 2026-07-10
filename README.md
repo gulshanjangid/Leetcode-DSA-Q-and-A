@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/gulshanjangid/SQL/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/gulshanjangid/SQL/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/gulshanjangid/SQL/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/gulshanjangid/SQL/tree/master/0050-powx-n) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gulshanjangid/SQL/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Two Pointers
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/gulshanjangid/SQL/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/gulshanjangid/SQL/tree/master/0010-regular-expression-matching) |
+| [0050-powx-n](https://github.com/gulshanjangid/SQL/tree/master/0050-powx-n) |
 ## Binary Search
 |  |
 | ------- |
