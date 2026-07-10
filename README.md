@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gulshanjangid/SQL/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/gulshanjangid/SQL/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/gulshanjangid/SQL/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/gulshanjangid/SQL/tree/master/0079-word-search) |
 | [1288-remove-covered-intervals](https://github.com/gulshanjangid/SQL/tree/master/1288-remove-covered-intervals) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/gulshanjangid/SQL/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/gulshanjangid/SQL/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/gulshanjangid/SQL/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/gulshanjangid/SQL/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gulshanjangid/SQL/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0079-word-search](https://github.com/gulshanjangid/SQL/tree/master/0079-word-search) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gulshanjangid/SQL/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gulshanjangid/SQL/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sliding Window
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gulshanjangid/SQL/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/gulshanjangid/SQL/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/gulshanjangid/SQL/tree/master/0079-word-search) |
 ## Linked List
 |  |
 | ------- |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/gulshanjangid/SQL/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/gulshanjangid/SQL/tree/master/0079-word-search) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/gulshanjangid/SQL/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
 |  |
@@ -144,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/gulshanjangid/SQL/tree/master/0079-word-search) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/gulshanjangid/SQL/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Simulation
 |  |
