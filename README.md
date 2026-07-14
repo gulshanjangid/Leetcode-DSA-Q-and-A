@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/gulshanjangid/SQL/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/gulshanjangid/SQL/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gulshanjangid/SQL/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0067-add-binary](https://github.com/gulshanjangid/SQL/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/gulshanjangid/SQL/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/gulshanjangid/SQL/tree/master/0093-restore-ip-addresses) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gulshanjangid/SQL/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/gulshanjangid/SQL/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/gulshanjangid/SQL/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/gulshanjangid/SQL/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/gulshanjangid/SQL/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/gulshanjangid/SQL/tree/master/0069-sqrtx) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gulshanjangid/SQL/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Two Pointers
@@ -160,8 +162,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/gulshanjangid/SQL/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/gulshanjangid/SQL/tree/master/0067-add-binary) |
 ## Database
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/gulshanjangid/SQL/tree/master/0175-combine-two-tables) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/gulshanjangid/SQL/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
